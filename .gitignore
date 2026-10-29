@@ -1,0 +1,8 @@
+# FLUXNET-CH4 data are not redistributed here; download them yourself (see README)
+data/*.zip
+data/*.csv
+*.zip
+wetland_ch4_daily.csv
+site_summary.csv
+.ipynb_checkpoints/
+__pycache__/
